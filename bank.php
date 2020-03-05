@@ -2,7 +2,7 @@
   $OMNILOG				= 1;
   include("include/_include-config.php");
 
-  include("include/_include-gevangenis.php");
+  include("include/_include-jail.php");
     
  if(!($_SESSION))
   {
@@ -80,7 +80,7 @@ $renteba = number_format($data->bank*0.10, 0, '.' , '.');
           print "  <tr><td class=\"mainTxt\">You can no longer deposit today</td></tr>\n";
       }
       else
-        print "  <tr><td class=\"mainTxt\">Je mag maar €{$data->bankmax},- per keer storten</td></tr>\n";
+        print "  <tr><td class=\"mainTxt\">Je mag maar â‚¬{$data->bankmax},- per keer storten</td></tr>\n";
     }
     else
       print "  <tr><td class=\"mainTxt\" align=\"center\"> $bank6 </td></tr>\n";
