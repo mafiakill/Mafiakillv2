@@ -38,6 +38,29 @@ $jailtxt14 = "Geld dat je aan iemand geeft als hij je uit de gevangenis breekt."
 $jailtxt15 = "Verander";
 $jailtxt16 = "Is al vrij";
 
+//bank.php
+$banktitle = "Bank";
+$bankdepwit = "Storten of opnemen";
+$banksent = "Stuur geld";
+$bankop1 = "Je hebt";
+$bank2 = "van de bank opgenomen";
+$bank3 = "Je hebt niet genoeg geld op de bank";
+$bank4 = "U heeft";
+$bank5 = "overgemaakt naar uw bank.";
+$bank6 = "Je hebt niet zoveel contant geld!";
+$bankcash = "Contant";
+$bankbank = "Bank";
+$banktakeall = "Alles opnemen";
+$bank7 = "Opnemen";
+$bank8 = "Storten";
+$bank9 = "De gebruikersnaam die je hebt ingevoerd is niet correct!";
+$bank10 = "Je hebt verzonden";
+$bank11 = "Naar";
+$bank12 = "Je hebt niet genoeg geld";
+$bank13 = "Bedrag";
+$bank14 = "Verzenden";
+$bank15 = "Doneer clan";
+
 
 
 

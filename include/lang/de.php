@@ -36,4 +36,26 @@ $jailtxt13 = "Breakout-Preis geändert";
 $jailtxt14 = "Geld, das Sie jemandem geben, wenn er Sie aus dem Gefängnis bricht.";
 $jailtxt15 = "Veränderung";
 
+//bank.php
+$banktitle = "Bank";
+$bankdepwit = "Einzahlen oder Auszahlen";
+$banksent = "Schick Geld";
+$bankop1 = "Du musst nehmen";
+$bank2 = "von Ihrer Bank.";
+$bank3 = "Sie haben nicht genug Geld auf der Bank";
+$bank4 = "Sie haben übertragen";
+$bank5 = "zu Ihrer Bank.";
+$bank6 = "Sie haben nicht so viel Geld!";
+$bankcash = "Bargeld";
+$bankbank = "Bank";
+$banktakeall = "Nimm alles";
+$bank7 = "Abheben";
+$bank8 = "Anzahlung";
+$bank9 = "Der eingegebene Benutzername ist falsch!";
+$bank10 = "Sie haben gesendet";
+$bank11 = "Zu";
+$bank12 = "Du hast nicht genug Geld";
+$bank13 = "Menge";
+$bank14 = "senden";
+$bank15 = "Clan spenden";
 ?>

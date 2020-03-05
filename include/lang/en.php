@@ -36,6 +36,27 @@ $jailtxt13 = "Breakout price changed";
 $jailtxt14 = "Money you give to person that break you out of the jail.";
 $jailtxt15 = "Change";
 
-
+//bank.php
+$banktitle = "Bank";
+$bankdepwit = "Deposit or Withdraw";
+$banksent = "Send money";
+$bankop1 = "You have take";
+$bank2 = "from your bank.";
+$bank3 = "You don't have enough money in the bank";
+$bank4 = "You have transferred";
+$bank5 = "to your bank.";
+$bank6 = "You don't have that much money in your cash.";
+$bankcash = "Cash";
+$bankbank = "Bank";
+$banktakeall = "Take All";
+$bank7 = "Withdraw";
+$bank8 = "Deposit";
+$bank9 = "The username you entered is incorrect!";
+$bank10 = "You have send";
+$bank11 = "To";
+$bank12 = "You don't have enough money";
+$bank13 = "Amount";
+$bank14 = "send";
+$bank15 = "Donate clan";
 
 ?>
