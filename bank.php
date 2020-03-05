@@ -1,8 +1,7 @@
 <?php /* ------------------------- */
   $OMNILOG				= 1;
   include("include/_include-config.php");
-
-  
+  include("include/_include-jail.php");
     
  if(!($_SESSION))
   {
